@@ -1,0 +1,10 @@
+# Logisim backup & recovery files
+*.circ.bak
+*.bak
+*~
+
+# Logisim workspace settings & autosaves
+.logisim-evolution-workspace/
+.logisim-evolution/
+
+
